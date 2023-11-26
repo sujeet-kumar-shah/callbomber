@@ -59,4 +59,4 @@ jobs:
           app-name: 'callbomber'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAD1BF4750394D40921FEA7850A41F03 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D313F9F2FA34CC0822D69658F28A525 }}
